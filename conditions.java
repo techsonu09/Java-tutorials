@@ -7,7 +7,7 @@ public class conditions {
         int age = sc.nextInt();
 
         if(age > 18) {
-            System.out.println("Not Adult");
+            System.out.println("Adult");
         } else {
             System.out.println("Not Adult");
         }
